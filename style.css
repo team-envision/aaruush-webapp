@@ -8,6 +8,8 @@
   display: none;
 }
 
+-webkit-tap-highlight-color: transparent;
+
 a{
     text-decoration:none;
 }
