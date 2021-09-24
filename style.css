@@ -8,10 +8,11 @@
   display: none;
 }
 
--webkit-tap-highlight-color: transparent;
+
 
 a{
     text-decoration:none;
+    -webkit-tap-highlight-color: transparent;
 }
 li{
     list-style-type: none;
